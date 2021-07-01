@@ -1,5 +1,0 @@
----
-"changesets-example": patch
----
-
-OK 
